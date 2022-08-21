@@ -1,0 +1,33 @@
+name: nightfall
+description: Nightfall - game for Flame Game Jam
+version: 0.0.0
+publish_to: none
+
+environment:
+  sdk: ^2.15.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: 1.3.0
+  csv: ^5.0.1
+  http: ^0.13.5
+  flame_audio: 1.3.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/monochrome_transparent_packed.png
+    - assets/tiles/map1.csv
+    - assets/tiles/mono.tsx
+    - assets/images/player.png
+    - assets/images/player2.png
+    - assets/audio/bite-small.wav
+    - assets/audio/bite-small2.wav
+    - assets/audio/bite-small3.wav
+    - assets/audio/beads.wav
+    - assets/audio/creep.mp3
+  fonts:
+    - family: PressStart2P
+      fonts:
+        - asset: assets/fonts/PressStart2P-Regular.ttf

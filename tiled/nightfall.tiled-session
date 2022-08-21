@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/haxx/Desktop/dev/flamegamejam/assets/tiles/map1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/haxx/Desktop/dev/flamegamejam/assets/tiles/map1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1026.3333333333333,
+                "y": 449.66666666666663
+            }
+        },
+        "C:/Users/haxx/Desktop/dev/flamegamejam/assets/tiles/mono.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        }
+    },
+    "last.exportedFilePath": "C:/Users/haxx/Desktop/dev/flamegamejam/assets/tiles",
+    "last.imagePath": "C:/Users/haxx/Desktop/dev/flamegamejam/assets/tiles",
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "C:/Users/haxx/Desktop/dev/flamegamejam/assets/tiles/map1.tmx"
+    ],
+    "project": "nightfall.tiled-project",
+    "recentFiles": [
+        "C:/Users/haxx/Desktop/dev/flamegamejam/assets/tiles/map1.tmx",
+        "C:/Users/haxx/Desktop/dev/flamegamejam/assets/tiles/mono.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": true
+}
